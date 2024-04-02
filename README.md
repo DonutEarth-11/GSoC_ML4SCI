@@ -1,1 +1,3 @@
-# GSoC_ML4SCI
+# EXXA Exoplanet Atmosphere Characterization
+
+## GSoC EXXA Transmission Spectra Test
